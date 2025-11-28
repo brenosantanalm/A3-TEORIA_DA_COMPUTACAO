@@ -1,0 +1,20 @@
+public enum OpCode {
+    PUSH_CONST,
+    LOAD_VAR,
+    STORE_VAR,
+    ADD,
+    SUB,
+    MUL,
+    DIV,
+    CMP_EQ,
+    CMP_NEQ,
+    CMP_GT,
+    CMP_GTE,
+    CMP_LT,
+    CMP_LTE,
+    PRINT,
+    INPUT,
+    JMP,
+    JMP_IF_FALSE,
+    POP
+}

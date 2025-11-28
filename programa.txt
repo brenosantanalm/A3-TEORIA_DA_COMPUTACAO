@@ -1,0 +1,8 @@
+int valor;
+int i;
+input valor;
+i = 0;
+while (i < valor) {
+    print i + 1;
+    i = i + 1;
+}
